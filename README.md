@@ -6,6 +6,9 @@ This course will cover many important tools that helps data scientists such as n
 Before going through machine learning and deep learning, it is very important to gain the ability to work on data and makes it siutable 
 and impact it as possible much as you can. Since data, most of the time is not in a good shape and impact so it is a crucial step.
 
+<p align="center">
+  <img width="520" height="350" src="data_science_levels.jpg">
+</p>
 
 ## Modules
 I create the course in 5 seperate modules which are in order and complete each other.
