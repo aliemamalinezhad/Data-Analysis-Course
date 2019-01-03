@@ -1,5 +1,5 @@
 # Data-Analysis-Course
-This course consists of data wrangling, visualization, and decision and model  designing.
+This course consists of data wrangling, visualization, and decision and model evaluations.
 ## About the course
 As DataScience is one of the hottest jobs now adays.
 This course will cover many important tools that helps data scientists such as numpy, scipy and pandas.
